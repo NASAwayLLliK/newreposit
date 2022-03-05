@@ -1,0 +1,42 @@
+header {
+    background-color: #086FA1;
+    border-radius: 10px;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #2D2D2D;
+}
+
+h1 {
+    color: white;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #C4C4C4;
+    border: solid #086FA1 5px;
+    border-radius: 10px;
+}
+
+.special_link {
+    background-color: #086FA1;
+    color: #C4C4C4 ;
+    border: solid #086FA1 5px;
+    border-radius: 10px;
+}
+
+
+
+font {
+    background-color: #086FA1;
+    padding: 5px;
+}
+
+footer p {
+    font-size: 20px;
+    background-color:#C4C4C4 ;
+}
+
+
